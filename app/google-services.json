@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "924455758037",
+    "project_id": "generativeai-397113",
+    "storage_bucket": "generativeai-397113.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924455758037:android:6ee277d54447488e365a5c",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK6Vk5aRGnrO8s3LSgdRLLTZF2RclkJaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924455758037:android:267c8d592528d085365a5c",
+        "android_client_info": {
+          "package_name": "com.example.fcm_push"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK6Vk5aRGnrO8s3LSgdRLLTZF2RclkJaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

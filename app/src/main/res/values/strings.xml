@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Chat APP</string>
+    <string name="todo">TODO</string>
+    <string name="developed_by_manoj">Developed by Manoj</string>
+    <string name="send_otp">Send OTP</string>
+    <string name="mobile">mobile</string>
+    <string name="todo_1">TODO</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="enter_mobile_number">Enter mobile number</string>
+    <string name="next">Next</string>
+    <string name="otp">OTP</string>
+    <string name="todo_2">TODO</string>
+    <string name="_3_">3</string>
+    <string name="_1_">1</string>
+    <string name="_2_">2</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="resend_otp_in_30_sec">Resend OTP in 30 sec</string>
+    <string name="let_me_in">Let me in</string>
+    <string name="username">Username</string>
+    <string name="enter_your_username">Enter your Username</string>
+</resources>

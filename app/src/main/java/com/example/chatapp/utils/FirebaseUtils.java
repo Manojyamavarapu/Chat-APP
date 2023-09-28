@@ -9,6 +9,14 @@ public class FirebaseUtils {
     public static String currentUserID(){
         return FirebaseAuth.getInstance().getUid();
     }
+
+    public static boolean isLoggedIn(){
+        if(currentUserID()!=null){
+            return true;
+        }
+        return false;
+    }
+
     public static DocumentReference currentUserDetails(){
         return FirebaseFirestore.getInstance().collection("users").document(currentUserID());
     }

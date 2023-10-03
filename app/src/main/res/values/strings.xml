@@ -26,4 +26,5 @@
     <string name="_4">TODO</string>
     <string name="search_user">Search User</string>
     <string name="user_name">Username</string>
+    <string name="write_message_here">Write message here</string>
 </resources>
